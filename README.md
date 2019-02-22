@@ -1,5 +1,3 @@
-![OS](https://img.shields.io/badge/Tested%20On-Windows-yellowgreen.svg?style=flat-square) 
-
 # Advanced-Pishing
 
 An pishing fake page come with some advanced features
