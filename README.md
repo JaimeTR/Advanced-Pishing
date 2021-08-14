@@ -15,19 +15,12 @@ First thing, open ```ThankYou.php```, and change this ```youremail@host.com``` t
 # Connect society with badiiiro :kissing_heart:
 
 - 📱 Facebook: (https://www.facebook.com/badiiiro/)
-- 📷 Instagram: (https://www.instagram.com/badiiiro0/)
 - 🐤 Twitter: (https://twitter.com/badiiiro)
-- 🎥 Youtube: (https://www.youtube.com/badiiiro/)
-- 🎬 Twitch: (https://www.twitch.tv/badiiiro/)
-- 🎮 Steam: (https://steamcommunity.com/id/badiiiro/)
-- 💬 Discord Server: (https://discord.gg/Pzzsd3J)
+- Email: (badiiiro@pm.me)
 
 # Screenshots
 
 ![alt logo](https://i.imgur.com/wSTHdVL.png)
-
-# Donate
-- Payoneer = badroiv@gmail.com
 
 # NOTE
 - I am NOT responsible for anything that can be made or any use of it! It was created for educational purpouses only (use it by your own risk), Thank you all.
