@@ -1,7 +1,7 @@
 # FB-PISH
 Una página falsa de pishing hecha con algunas características avanzadas.
 
-## Instalacion y configuracion Windows [![alt tag](http://icons.iconarchive.com/icons/yootheme/social-bookmark/32/social-windows-button-icon.png)]
+## Instalacion y configuracion en Windows (http://icons.iconarchive.com/icons/yootheme/social-bookmark/32/social-windows-button-icon.png)
 
 ### Instalacion
 Necesita un alojamiento web, si no lo tiene, puede usar un alojamiento gratuito como [000WEBHOST](https://000webhost.com/) 
